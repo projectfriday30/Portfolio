@@ -22,4 +22,4 @@ The dataset contains information about vehicles: engine size, cylinders, fuel co
 
 ## ✍️ Author
 - [V S Chris](https://www.linkedin.com/in/vschris/)
-- Mechanical Engineer with a passion for Data Science & Manufacturing Tech
+- Mechanical Engineer with a passion for Data Science & Sustainable Tech
